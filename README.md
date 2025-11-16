@@ -1,4 +1,4 @@
-# magneto-acoustic
+# magneto-acoustics
 build a magnetic control platform with acoustic feedback
 
 
